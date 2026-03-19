@@ -1,6 +1,8 @@
-Hello world!
-I've always had troubles learning pokemon types... so to resolve that problem I asked (for now) to our freindly friend Claude IA :)))
+Hello world! 
+I’ve always found it hard to remember Pokémon types… so to solve this problem, I’ve asked (for now) our friendly AI friend Claude :)))
 
-To play this game you must install the latest version of my code, install pygame on your computer AND ATTENTION !!!!!!!! Add the type_chart on tthe SAME FOLDER than your code (or change the location if you want).
+To play this game, you need to install the latest version of my code, install Pygame on your computer AND IMPORTANT!!!!!!!! Add the type_chart file to the SAME FOLDER as your code (or change the location if you wish).
 
-Voili voilou that's all, enjoy the game!
+And that’s it, have fun!delete
+
+Translated with DeepL.com (free version)
